@@ -43,7 +43,7 @@ description: 以 "老王不只三分鐘" (王毅龍) 2023 至 2026 年 185 集�
 - `references/playbook.md`: 決策表與檢查清單, 討論時優先讀這份.
 - `references/methodology.md`: 完整方法論彙整 (含出處日期, 規則演變, 三段關鍵行情驗證, 持股水位跨期比較).
 - `references/terms.md`: 老王用語與轉錄誤字對照.
-- 專案內 `laowang/README.md`: 185 集筆記索引; `laowang/notes/`: 每集筆記 (含時間戳連結).
+- 專案內 `laowang/README.md`: 185 集筆記索引; `laowang/notes/`: 每集筆記 (含時間戳連結). 在 claude.ai 網頁版等沒有專案檔案的環境, 這兩者讀不到, 以 `references/` 三份檔案為準; 使用者若另外上傳了筆記檔, 再引用筆記.
 
 ## 輸出格式
 
